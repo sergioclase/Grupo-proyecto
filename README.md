@@ -2,5 +2,7 @@
 
 Cada uno de los compañeros se les asignara un rol que tendran que seguir para hacer el proyecto, pero ellos harán el proyecto con el mayor compañerismo posible 
 
-
+ - Sergio de la Torre: sistemas y servicios, iene que encargarse de las aplicaciones que vamos a usar para el proyecto del scape room y un poco de los servicios 
+ - Pablo Martínez: documentación y calidad, se encargará de redactar el proyecto, pero también colaborará como todos en todo
+ - Álvaro casanova: coordinació,  organizara como se hara todo el proyecto, pero igualmente trabajara y ayudara a los integrantes del grupo
   
